@@ -8,7 +8,7 @@ lifecycle_rule {
   }
   action {
     type = "setStorageClass"
-    storage_class = "ARCHIVE"
+    storage_class = "STANDARD"
   }
 }
 }
